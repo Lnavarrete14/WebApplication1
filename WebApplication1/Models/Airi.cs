@@ -7,7 +7,5 @@ namespace WebApplication1.Models
 {
     public class Airi
     {
-        string x = "fd";
-
     }
 }
